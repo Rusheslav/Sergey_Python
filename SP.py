@@ -99,8 +99,6 @@ def bot_move(g_field: list, mark: str, o_mark: str) -> None:
     for i in (1, 3, 5, 7):
         if g_field[i] == space:
             g_field[i] = mark
-            if check_draw(g_field):
-                print('Ничья!')
             return
 
 
