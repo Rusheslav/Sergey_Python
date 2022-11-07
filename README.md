@@ -1,3 +1,3 @@
 # Десктопная игра "Сергей-Питон"
 
-Для запуска необходимо скачать файл и запустить его в любом IDE для Python, предварительно установив библиотеку [tkinter](https://docs.python.org/3.10/library/tkinter.html#module-tkinter) (если она еще не установлена).
+Для запуска необходимо скачать файл SP.py и запустить его в любом IDE для Python, предварительно установив библиотеку [tkinter](https://docs.python.org/3.10/library/tkinter.html#module-tkinter) (если она еще не установлена).
